@@ -1,1 +1,1 @@
-# flex-exam
+This repo is called flex-exam but is not only about flex. In this project I will test my knowledge in HTML and CSS aquired throughout the odin project course.
